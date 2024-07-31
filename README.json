@@ -1,0 +1,18 @@
+{
+  "name": "zcore-zircon-object",
+  "description": "Zircon kernel objects",
+  "authors": [{
+    "name": "Runji Wang",
+    "email": "wangrunji0408@163.com"
+  }, {
+    "name": "Qinglin Pan",
+    "email": "panqinglin00@163.com"
+  }, {
+    "name": "Luoyuan Xiao",
+    "email": "xiaoluoyuan@163.com"
+  }],
+  "keywords": ["zcore", "zircon", "kernel", "object"],
+  "repo": "kern-crates/zcore-zircon-object",
+  "test_repos": ["https://github.com/kern-crates/zCore.git"],
+  "doc_url": "https://github.com/kern-crates/zCore/blob/main/README.md"
+}
